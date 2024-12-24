@@ -7,7 +7,7 @@
 
 <!-- Title -->
 <h1 align="center"><b>CS115 - TOÁN CHO KHOA HỌC MÁY TÍNH</b></h1>
-<h1 align="center"><b> **MATH FOR COMPUTER SCIENCE** </b></h1>
+<h1 align="center"><b> MATH FOR COMPUTER SCIENCE </b></h1>
 
 [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115)
 [![GitHub contributors](https://img.shields.io/github/contributors/ToiLaKiet/UIT-CS115?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115/graphs/contributors)
