@@ -10,7 +10,7 @@
 <h1 align="center"><b>MATH FOR COMPUTER SCIENCE</b></h1>
 
 [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115)
-[![GitHub contributors](https://img.shields.io/github/contributors/lphuong304/CS117.L21?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/ToiLaKiet/UIT-CS115?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115)
 
 ## BẢNG MỤC LỤC
