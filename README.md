@@ -25,21 +25,22 @@
 * [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** TƯ DUY TÍNH TOÁN - COMPUTATIONAL THINKING
-* **Mã môn học:** CS117
-* **Mã lớp:** CS117.L21
-* **Năm học:** HK2 (2020 - 2021)
-* **Giảng viên:** TS. Ngô Đức Thành - *thanhnd@uit.edu.vn*
+* **Tên môn học:** TOÁN CHO KHOA HỌC MÁY TÍNH - MATH FOR CS
+* **Mã môn học:** CS115
+* **Mã lớp:** CS115.P11
+* **Năm học:** HK1 (2023 - 2024)
+* **Giảng viên:** TS. Dương Việt Hằng - *hangvd@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Nguyễn Ngọc Lan Phương | 19520227 | Nhóm trưởng | 19520227@gm.uit.edu.vn | [lphuong304](https://github.com/lphuong304) | [phuwowngnef](https://www.facebook.com/phuwowngnef) |
-| 2 | Cao Hưng Phú | 19520214 | Thành viên | 19520214@gm.uit.edu.vn | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
-| 3 | Lê Quang Nha | 19520195 | Thành viên | 19520195@gm.uit.edu.vn | [nhalq](https://github.com/nhalq) | [qnhane](https://www.facebook.com/qnhane) |
+| 1 | Võ Anh Kiệt | 23520825 | Thành viên | 23520825@gm.uit.edu.vn | [toilakiet](https://github.com/ToiLaKiet) | [phuwowngnef](https://www.facebook.com/voanhkiet05) |
+| 2 | Lê Phú Quý | 19520214 | Thành viên | 19520214@gm.uit.edu.vn | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
+| 3 | Trần Tuấn Kiệt | 19520195 | Thành viên | 19520195@gm.uit.edu.vn | [nhalq](https://github.com/nhalq) | [qnhane](https://www.facebook.com/qnhane) |
+| 4 | Phạm Tài Lộc | 19520195 | Thành viên | 19520195@gm.uit.edu.vn | [nhalq](https://github.com/nhalq) | [qnhane](https://www.facebook.com/qnhane) |
 
 ## GIỚI THIỆU ĐỀ TÀI
-* **Tên đề tài:** Phát hiện tiếp xúc gần
+* **Tên đề tài:** Policy Gradient For Reinforcement Learning
 * **Mô tả đề tài:** Hệ thống phát hiện tiếp xúc gần sử dụng dữ liệu từ các video (video có sẵn được triết xuất từ các camera,...) sau đó dữ liệu sẽ được cắt ra từng frame ảnh để phát hiện tiếp xúc gần thông qua việc xác định các đối tượng là người trong ảnh sau đó sẽ tính khoảng cách giữa các cặp người.
 
 ## CÀI ĐẶT
