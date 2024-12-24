@@ -67,8 +67,8 @@ thop
 
 ### Installation
 ```sh
-git clone https://github.com/lphuong304/CS117.L21.git
-cd CS117.L21
+git clone https://github.com/ToiLaKiet/UIT-CS115.git
+cd UIT-CS115
 pip install -r requirements.txt
 ```
 
@@ -85,9 +85,7 @@ python output.py --type video --input Testcases/video_1.mp4 --output Results/vid
 ```
 
 ## DEMO
-Full demo: https://www.youtube.com/playlist?list=PLuIgPZeWJ60_27EQfdfIsNqTEDtN2DMGj
-
-https://user-images.githubusercontent.com/63930670/131475574-32c75d09-e6b1-4f64-9b75-b786141db538.mp4
+Full demo: 
 
 ## TÀI LIỆU THAM KHẢO
 - [[1] - Social Distancing Detection with Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9243478)
