@@ -9,7 +9,7 @@
 <h1 align="center"><b>CS115 - TOÁN CHO KHOA HỌC MÁY TÍNH</b></h1>
 <h1 align="center"><b>MATH FOR COMPUTER SCIENCE</b></h1>
 
-[![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/lphuong304/CS117.L21)
+[![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/ToiLaKiet/UIT-CS115)
 [![GitHub contributors](https://img.shields.io/github/contributors/lphuong304/CS117.L21?style=flat-square)](https://github.com/lphuong304/CS117.L21/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/lphuong304/CS117.L21)
 
@@ -28,7 +28,7 @@
 * **Tên môn học:** TOÁN CHO KHOA HỌC MÁY TÍNH - MATH FOR CS
 * **Mã môn học:** CS115
 * **Mã lớp:** CS115.P11
-* **Năm học:** HK1 (2023 - 2024)
+* **Năm học:** HK1 (2024 - 2025)
 * **Giảng viên:** TS. Dương Việt Hằng - *hangvd@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
