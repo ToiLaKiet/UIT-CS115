@@ -35,7 +35,7 @@
 | STT | Họ tên | MSSV | Vai trò | Email |
 | :---: | --- | --- | --- | --- | 
 | 1 | Võ Anh Kiệt | 23520825 | Thành viên | 23520825@gm.uit.edu.vn |
-| 2 | Lê Phú Quý | 235201316 | Thành viên | 235201316@gm.uit.edu.vn | 
+| 2 | Lê Phú Quý | 23521316 | Thành viên | 235201316@gm.uit.edu.vn | 
 | 3 | Trần Tuấn Kiệt | 23520822 | Thành viên | 23520822@gm.uit.edu.vn |
 | 4 | Phạm Tài Lộc | 23520865 | Thành viên | 23520865@gm.uit.edu.vn |
 
