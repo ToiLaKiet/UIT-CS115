@@ -41,28 +41,17 @@
 
 ## GIỚI THIỆU ĐỀ TÀI
 * **Tên đề tài:** Policy Gradient For Reinforcement Learning
-* **Mô tả đề tài:** Hệ thống phát hiện tiếp xúc gần sử dụng dữ liệu từ các video (video có sẵn được triết xuất từ các camera,...) sau đó dữ liệu sẽ được cắt ra từng frame ảnh để phát hiện tiếp xúc gần thông qua việc xác định các đối tượng là người trong ảnh sau đó sẽ tính khoảng cách giữa các cặp người.
+* **Mô tả đề tài:** Xây dựng một mô hình Reinforcement Learning với cách tiếp cận Policy-based là Policy Gradient Method.
 
-## CÀI ĐẶT
-- Mô hình sử dụng pretrain model YoloV5 để phát hiện vật thể (người) [[1]](#tài-liệu-tham-khảo)
 
 ### Requirements
 * **Language:** Python 3
 * **Library:** 
 ```sh
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.2
-Pillow>=8.0.0
-PyYAML>=5.3.1
-scipy>=1.4.1
-torch>=1.7.0
-torchvision>=0.8.1
-tqdm>=4.41.0
-seaborn>=0.11.0
-imutils
-pandas
-thop
+gym
+pytorch
+numpy
+itertools
 ```
 
 ### Installation
@@ -79,7 +68,7 @@ python3 CS115_Demo_Policy_GradientForRL.py
 ```
 
 ## DEMO
-Full demo: 
+Full demo: https://drive.google.com/file/d/1oMhyHA-ztEb-mIrySDdBRPNrYm2W0r3o/view?fbclid=IwY2xjawHW625leHRuA2FlbQIxMAABHQmZ3nyruC9jJPUylaTVjeRodPgnwtd1t5pJtbJBaCWxS9TdtAueIyH9zQ_aem_3CTvMesmAyiMciLBhBaVMA
 
 ## TÀI LIỆU THAM KHẢO
 - [[1] - Social Distancing Detection with Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9243478)
