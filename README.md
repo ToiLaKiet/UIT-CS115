@@ -68,7 +68,7 @@ python3 CS115_Demo_Policy_GradientForRL.py
 ```
 
 ## DEMO
-Full demo: https://drive.google.com/file/d/1oMhyHA-ztEb-mIrySDdBRPNrYm2W0r3o/view?fbclid=IwY2xjawHW625leHRuA2FlbQIxMAABHQmZ3nyruC9jJPUylaTVjeRodPgnwtd1t5pJtbJBaCWxS9TdtAueIyH9zQ_aem_3CTvMesmAyiMciLBhBaVMA
+Full demo: https://shorturl.at/5AGUW
 
 ## TÀI LIỆU THAM KHẢO
 - [[1] - Social Distancing Detection with Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9243478)
