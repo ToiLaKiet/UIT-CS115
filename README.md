@@ -73,15 +73,9 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-- Phát hiện image / video
+- Huấn luyện Model chơi game Cart Pole
 ```sh
-python detector.py --type image --input Testcases/image_1.jpg
-python detector.py --type video --input Testcases/video_1.mp4
-```
-- Xuất output image / video
-```sh
-python output.py --type image --input Testcases/image_1.jpg --output Results/image_1.jpg
-python output.py --type video --input Testcases/video_1.mp4 --output Results/video_1.avi
+python3 CS115_Demo_Policy_GradientForRL.py
 ```
 
 ## DEMO
