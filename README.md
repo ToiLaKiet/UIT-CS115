@@ -22,7 +22,6 @@
     - [Installation](#installation)
     - [Usage](#usage)
 * [Demo](#demo)
-* [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** TOÁN CHO KHOA HỌC MÁY TÍNH - MATH FOR CS
@@ -69,10 +68,3 @@ python3 CS115_Demo_Policy_GradientForRL.py
 
 ## DEMO
 Full demo: https://shorturl.at/5AGUW
-
-## TÀI LIỆU THAM KHẢO
-- [[1] - Social Distancing Detection with Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9243478)
-- [[2] - Perspective transformation](https://subscription.packtpub.com/book/web-development/9781838646301/6/ch06lvl1sec94/perspective-transformation)
-- [[3] - Real-time and Accurate UAV Pedestrian Detection for Social Distancing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417704)
-- [[4] - A Vision-based Social Distancing and Critical Density Detection System for COVID-19](https://arxiv.org/abs/2007.03578)
-- [[5] - YOLOv5 | PyTorch](https://pytorch.org/hub/ultralytics_yolov5/)
