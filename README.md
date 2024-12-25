@@ -60,11 +60,8 @@ cd UIT-CS115
 pip install -r requirements.txt
 ```
 
-### Usage
+### Usage 
 - Huấn luyện Model chơi game Cart Pole
-```sh
-python3 CS115_Demo_Policy_GradientForRL.py
-```
 
 ## DEMO
 Full demo: https://shorturl.at/5AGUW
